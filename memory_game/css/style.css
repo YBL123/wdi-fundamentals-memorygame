@@ -60,6 +60,16 @@ p {
   font-size: 18px;
 }
 
+button {
+  font-family: "Droid Serif", sans-serif;
+  line-height: 16px;
+  font-size: 15px;
+  background-color: #0D2C40;
+  color: white;
+  padding: 0 10px;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
 img {
   margin: 40px 8px 0 8px;
 }
@@ -91,6 +101,16 @@ footer p{
 .name {
   color: #F15B31;
   font-weight: 700;
+}
+
+.score {
+  font-family: "Droid Serif", sans-serif;
+  line-height: 16px;
+  font-size: 15px;
+  background-color: #0D2C40;
+  color: white;
+  padding: 0 10px;
+
 }
 
 
